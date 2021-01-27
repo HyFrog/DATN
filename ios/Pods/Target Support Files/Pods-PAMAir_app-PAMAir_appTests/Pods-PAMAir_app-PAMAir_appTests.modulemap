@@ -1,0 +1,6 @@
+module Pods_PAMAir_app_PAMAir_appTests {
+  umbrella header "Pods-PAMAir_app-PAMAir_appTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
